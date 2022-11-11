@@ -20,7 +20,7 @@ Holehe checks if an email is attached to an account on sites like twitter, insta
 ### With Github
 
 ```bash
-git clone https://github.com/megadose/holehe.git
+git clone https://github.com/secuestrador/holehe.git
 cd holehe/
 python3 setup.py install
 ```
